@@ -1,5 +1,7 @@
 # datafun-06-EDA
 
+### Project 6 will be a creation of my own. I will be demonstrating the topics coverd so far in the course on a data set of my choosing.
+
 ## creating project and cloning to machine
 
 ##### I creatred a new repository on GitHub. 
