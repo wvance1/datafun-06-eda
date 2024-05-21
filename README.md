@@ -64,6 +64,10 @@ titanic_df = sns.load_dataset('titanic')
 
 # Display the first few rows of the dataset
 print(titanic_df.head())
+
+#Downloaded the data set to a CSV
+titanic_df.to_csv('titanic_dataset.csv', index=False)
+
 ```
 
 ## Source
