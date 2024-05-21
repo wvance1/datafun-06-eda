@@ -69,6 +69,8 @@ print(titanic_df.head())
 titanic_df.to_csv('titanic_dataset.csv', index=False)
 
 ```
+##### The data can be found at the below link.
+[Link Text](https://github.com/wvance1/datafun-06-eda/blob/main/titanic.csv)
 
 ## Source
 ##### This project was built to the following specification:
