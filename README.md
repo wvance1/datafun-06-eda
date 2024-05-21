@@ -54,7 +54,17 @@ git add .
 git commit -m "add .gitignore, cmds to readme"
 git push origin main
 ```
+## Selected Data set
 
+##### I wll be looking at the titanic data set from seaborn. It is a built in data set, so no other imports were needed. I displayed the head to help observe the data.
+
+```shell
+# Load the Titanic dataset
+titanic_df = sns.load_dataset('titanic')
+
+# Display the first few rows of the dataset
+print(titanic_df.head())
+```
 
 ## Source
 ##### This project was built to the following specification:
